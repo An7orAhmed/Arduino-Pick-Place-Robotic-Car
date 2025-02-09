@@ -1,4 +1,3 @@
-```markdown
 # Arduino Pick & Place Robotic Car
 
 A robotic vehicle with object manipulation capabilities, controlled via Bluetooth/serial interface.
@@ -41,4 +40,3 @@ This project implements a mobile robotic car with a servo-controlled gripper arm
 [System Block Diagram](https://drive.google.com/file/d/1-block.pdf/view) (Google Drive link)
 
 > **Implementation Note**: Servo motion uses 10ms delay increments between 5° position changes for mechanical stability. Motor control logic includes instant braking on stop commands.
-```
